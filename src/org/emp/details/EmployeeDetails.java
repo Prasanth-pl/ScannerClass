@@ -35,5 +35,9 @@ public class EmployeeDetails {
 		System.out.println("Your city name is:");
 		String City = c.next();
 		System.out.println("Your City Name is:"+City);
+		
+		
+		System.out.println("Upi Payment");
+		
 	}
 }
